@@ -134,7 +134,31 @@ How can I manage my time in order to receive parts before competition? How am I 
 
 ---
 
+
 ## Timeline Documentation
 
-If you're curious and want to learn about the design choices and iteration of Totality, check the version documents that covers each version!
+If you're curious and want a more in-depth look about the design choices and evolution of Totality, check the version documents that covers each version!
+
+<br />
+<br />
+<br />
+
+# Version 4.1 Build: August 2026 - Present
+
+### Changelog from 4.0
+
+- Coated magnet indents with a layer of epoxy
+- installed washers on the dead axle and motor mounting screws
+- Ordered new uprights with #41 bit pilot holes
+
+### Chassis Design
+
+The chassis needs to be super rigid and durable enough to take many impacts, while still being able to house all the components. The chassis consists of multiple sub-sections: the central frame, the side armor, and the top/bottom plates. Additional components will be discussed in the drive system section.
+
+**Central Frame**
+
+<img width="500" height="355" alt="Screenshot 2026-09-24 155706" src="https://github.com/user-attachments/assets/b3557650-ecbf-4442-8939-c69b2b558e1f" />
+
+
+
 
