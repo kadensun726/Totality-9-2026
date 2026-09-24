@@ -92,6 +92,7 @@ Version 4.1 with the standard fork configuation, as of 9/23/26
 | Battery | 4S 15.2v LiHV 380 mah |
 | Radio Protocol | FS2A |
 | Dimensions | 115mm x 175mm x 82mm |
+| Materials Used | 95A TPU, UHMWPE, AR500, T300 cf, Ti-6Al-4V |
 
 
 
