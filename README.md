@@ -82,7 +82,7 @@ Version 4.1 with the standard fork configuation, as of 9/23/26
 | Spec | Value |
 |---|---|
 | Drive Configuration | 4 wheel drive |
-| Drive Motors | RR Mk4.1 brushless 1106 3500kv |
+| Drive Motors | 1106 RR mini Mk4.1 3500kv |
 | Top Speed | 7.5 mph |
 | Weapon Type | Vertical bar spinner |
 | Weapon Drive Type  | Hubmotor |
@@ -91,8 +91,9 @@ Version 4.1 with the standard fork configuation, as of 9/23/26
 | Kinetic Energy Storage | 118 J |
 | Battery | 4S 15.2v LiHV 380 mah |
 | Radio Protocol | FS2A |
+| Materials Used | 95A TPU, PLA+, UHMWPE, AR500, T300 cf, Ti-6Al-4V |
+| Materials Used | #4 & M3 Plastites, M3 & M2 screws, 5mm Ti shaft |
 | Dimensions | 115mm x 175mm x 82mm |
-| Materials Used | 95A TPU, UHMWPE, AR500, T300 cf, Ti-6Al-4V |
 
 
 
