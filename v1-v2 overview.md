@@ -2,7 +2,8 @@
 
 Events taken to: 1
 
-This document is an overview of my design philosophy in making my first combat robot.
+This document is an overview of my design philosophy in making my first combat robot. Oh man we've come a long way.
+
 
 <table align="center">
   <tr>
