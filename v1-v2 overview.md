@@ -30,7 +30,7 @@ I ultimately set my sight on building an antweight (1lb) vertical spinner combat
 
 ## Frame overview
 
-**Main Chassis**
+**Robot Overview**
 
 <img width="506" height="320" alt="Screenshot 2026-09-23 215237" src="https://github.com/user-attachments/assets/796cad51-7f6b-45cf-931a-c8e298c2af1a" />
 
