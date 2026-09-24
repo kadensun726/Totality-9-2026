@@ -1,4 +1,4 @@
-# Totality-2-2025-present
+# Totality
 
 Profile Page: https://www.robotcombatevents.com/groups/8408/resources/20107
 
@@ -24,6 +24,21 @@ Modeled in Onshape and rendered in Fusion360 (see photos), this project showcase
     </td>
   </tr>
 </table>
+<table align="center">
+  <tr>
+    <td align="center">
+      <img src="https://github.com/user-attachments/assets/aa5ad30e-b2d8-4d65-9eae-2ea4bd5edd79" width="400" alt="comedic gentleman"/>
+      <br />
+      <sub><b></b></sub>
+    </td>
+    <td align="center">
+      <img src="https://github.com/user-attachments/assets/2debbb9e-93a1-4e5f-bde0-ced57382f80a" width="400" alt="sharky"/>
+      <br />
+      <sub><b></b></sub>
+    </td>
+  </tr>
+</table>
+
 
 <br />
 <br />
