@@ -74,7 +74,7 @@ Version 4.1 with the standard fork configuation, as of 9/23/26
 | Kinetic Energy Storage | 118 J |
 | Battery | 4S 15.2v LiHV 380 mah |
 | Radio Protocol | FS2A |
-| Dimensions | [115mm x 175mm x 82mm] |
+| Dimensions | 115mm x 175mm x 82mm |
 
 
 
