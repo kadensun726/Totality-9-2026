@@ -14,11 +14,15 @@ This document is an overview of my design philosophy in making my first combat r
     </td>
     <td align="center">
       <img src="https://github.com/user-attachments/assets/40d6472e-57ea-46e6-a85d-ed510049c3b9" width="400" alt="v2"/>
-      <br />
       <sub><b></b></sub>
     </td>
   </tr>
 </table>
 
-<br /
-# Pre-project timeline
+<br />
+
+# Pre-project thoughts
+
+As a long time fan of Battlebots and robot combat, I was eager to dip my feet into the sport. With the accessibility and affordability of building robots in the smaller weight classes, I was confident that I would be able to make something. It didn't have to be good, It didn't have to be perfect, but it had to show that I tried.
+
+I ultimately set my sight on building an antweight (1lb) vertical spinner combat robot. Vertical spinners have general advantages over other weapon types. They have a high destructive capability, control potential, and the ability to have a modifiable front end, allowing them to be highly versatile. In fact, general physics also prove this concept to be true.
