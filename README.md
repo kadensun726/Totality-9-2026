@@ -90,7 +90,7 @@ Version 4.1 with the standard fork configuation, as of 9/23/26
 | Weapon Tip Speed | 212 mph |
 | Kinetic Energy Storage | 118 J |
 | Magnetic Downforce | ~300g |
-| Battery | 4S 15.2v LiHV 380 mah |
+| Battery | 4S 15.2V LiHV 380 mah |
 | Radio Protocol | FS2A |
 | Materials Used | 95A TPU, PLA+, UHMWPE, AR500, T300 cf, Ti-6Al-4V |
 | Hardware | #4 & M3 Plastites, M3 & M2 screws, 5mm Ti shaft |
