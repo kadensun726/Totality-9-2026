@@ -93,7 +93,7 @@ Version 4.1 with the standard fork configuation, as of 9/23/26
 | Battery | 4S 15.2v LiHV 380 mah |
 | Radio Protocol | FS2A |
 | Materials Used | 95A TPU, PLA+, UHMWPE, AR500, T300 cf, Ti-6Al-4V |
-| Materials Used | #4 & M3 Plastites, M3 & M2 screws, 5mm Ti shaft |
+| Hardware | #4 & M3 Plastites, M3 & M2 screws, 5mm Ti shaft |
 | Dimensions | 115mm x 175mm x 82mm |
 
 
