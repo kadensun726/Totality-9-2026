@@ -20,3 +20,5 @@ This document is an overview of my design philosophy in making my first combat r
   </tr>
 </table>
 
+<br /
+# Pre-project timeline
