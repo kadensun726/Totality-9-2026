@@ -15,7 +15,7 @@ Modeled in Onshape and rendered in Fusion360 (see photos), this project showcase
     <td align="center">
       <img src="https://github.com/user-attachments/assets/fff72a5d-c80d-434c-a3cd-1f78cc5c406e" width="400" alt="CAD Design in Onshape"/>
       <br />
-      <sub><b></b></sub>
+      <sub>version 4.0<b></b></sub>
     </td>
     <td align="center">
       <img src="https://github.com/user-attachments/assets/d3911d69-4300-435b-bffc-1eafab3a4282" width="400" alt="Fusion 360 Render"/>
