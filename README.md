@@ -5,6 +5,22 @@ Totality was my first attempt at creating something from scratch, and is my long
 
 Modeled in Onshape and rendered in Fusion360 (see photos), this project showcases the ability to design and manufacture an electric vehicle under tight space and weight constraints, all the while optimizing for extreme kinetic durability and high-energy storage.
 
-\
-\
-<img width="400" height="300" alt="sept_render_1" src="https://github.com/user-attachments/assets/2dac8204-d4cf-443c-837a-51cc84b9531f" />
+ 
+
+ 
+
+<table align="center">
+  <tr>
+    <td align="center">
+      <img src="https://github.com/user-attachments/assets/fff72a5d-c80d-434c-a3cd-1f78cc5c406e" width="400" alt="CAD Design in Onshape"/>
+      <br />
+      <sub><b></b></sub>
+    </td>
+    <td align="center">
+      <img src="https://github.com/user-attachments/assets/a837b245-b546-400b-82b1-0bbfda58b72b" width="400" alt="Fusion 360 Render"/>
+      <br />
+      <sub><b></b></sub>
+    </td>
+  </tr>
+</table>
+
