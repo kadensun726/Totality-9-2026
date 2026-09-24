@@ -53,7 +53,7 @@ As of September 2026, Totality sits at v4.1. I am actively working on v4.2, whic
 
 ### What is combat robotics?
 
-Combat robotics is a sport/engineering challenge where builders design custom vehicles in an attempt to prevent an opposing robot from exerting any form of translational motion. Robots can accomplish these tasks in a variety of different methods, typically using forms of kinetic energy to transfer enough energy into another robot to disable it, or to exploit another robot's weaknesses.
+Combat robotics is a sport/engineering challenge where builders design custom vehicles in an attempt to prevent an opposing robot from exerting any form of translational motion. Robots have 3 minutes to accomplish these tasks in a variety of different methods, either using forms of kinetic energy to transfer enough energy into another robot to disable it, or to exploit another robot's weaknesses with non-destructive tactics.
 
 Similar to other combat sports, combat robotics have different weight classes, ranging from 150g fairyweights all the way up to 250lb heavyweights. The most popular of the bunch are the insect weight classes, which are 1lb (antweight) and 3lb (beetleweight).
 
