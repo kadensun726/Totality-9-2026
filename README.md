@@ -89,7 +89,7 @@ Version 4.1 with the standard fork configuation, as of 9/23/26
 | Weapon Blade Weight | 46g/50g |
 | Weapon Tip Speed | 212 mph |
 | Kinetic Energy Storage | 118 J |
-| Downforce | ~300g |
+| Magnetic Downforce | ~300g |
 | Battery | 4S 15.2v LiHV 380 mah |
 | Radio Protocol | FS2A |
 | Materials Used | 95A TPU, PLA+, UHMWPE, AR500, T300 cf, Ti-6Al-4V |
