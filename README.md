@@ -133,7 +133,6 @@ How can I manage my time in order to receive parts before competition? How am I 
 
 ---
 
-
 ## Timeline Documentation
 
 If you're curious and want to learn about the design iteration of Totality, check the version documents that covers each version!
