@@ -1,5 +1,7 @@
 # Totality-2-2025-present
 
+Profile Page: https://www.robotcombatevents.com/groups/8408/resources/20107
+
 Totality was my first attempt at creating something from scratch, and is my longest running project. It is a combat robot that weighs 1 pound (454 grams) and has competed at numerous events around Southern California. It has placed 3rd out of 16 at Destruction Under the Stars 2025 and 2nd out of 24 at Destruction Under the Stars 2026. It is currently ranked #14 nationally in the antweight division.
 
 
