@@ -28,7 +28,7 @@ Modeled in Onshape and rendered in Fusion360 (see photos), this project showcase
 
 ## Current Status
 
-As of September 2026, Totality sits at v4.1. I am actively working on v4.2, which will include some minor tweaks and improvements in hopes of getting better performance out of it. Changes will be discussed in another section.
+As of September 2026, Totality sits at v4.1. I am actively working on v4.2, which will include some minor tweaks and improvements in hopes of getting a better performance out of it. Changes will be discussed in another section.
 
 ---
 
@@ -82,6 +82,8 @@ Version 4.1 with the standard fork configuation, as of 9/23/26
 
 Before beginning CAD or fabrication, it is highly important to consider working towards meeting your design goals. All systems on Totality were designed with these principles in mind. Although I'm actively iterating on the robot, my goals have always been the following:
 
+<br />
+
 ### Destructive Capability
 
 How can I maximize the destructive capabilities of this robot? How can I optimize the weapon geometry and external system to gain the best results?
@@ -92,23 +94,23 @@ How can I ensure that the chassis, internal electronics, drive system, and weapo
 
 ### Ease of Construction
 
-[Insert details]
+How do I make the robot serviceable and easy to repair? There is only a 20 minute repair window in between matches, so having a robot that is quick and easy to fix is critical.
 
 ### Modular Design and Versatility
 
-[Insert details]
+What can I do to design key subsystems to be modular and have different configurations for specific robot archetypes? (e.g. wedge attachments, forks, baleen) How can I plan ahead before a competition to ensure I'm prepared for any opponent?
 
 ### Manufacturability
 
-[Insert details]
+How can part geometries be tailored towards being manufacturable through CNC machining, FDM printing, and laser cutting?
 
 ### Weight Budgeting
 
-[Insert details]
+How can I maximize the durability and allocate my weight towards key components while remaining under the weight limit?
 
 ### Organization and Management
 
-[Insert details]
+How can I manage my time in order to receive parts before competition? How am I able to keep track of money when constantly ordering parts and tools?
 
 ---
 
