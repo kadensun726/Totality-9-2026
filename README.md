@@ -44,7 +44,7 @@ Similar to other combat sports, combat robotics have different weight classes, r
 
 Totality is a high-speed, 4-wheel drive (4WD) 1lb antweight combat robot designed for great mobility and large kinetic energy impacts.
 
-The weapon system sports a large asymmetric single-tooth spinning piece of steel, specifically designed to maximize kinetic energy transfer into opposing robots, while finding a balance between angular momentum and robot controllability (I've launched robots over 4 feet into the ceiling before!).
+The weapon system sports a large asymmetric single-tooth spinning piece of steel, specifically designed to maximize kinetic energy transfer into opposing robots, while finding a balance between angular momentum and robot controllability (I've launched robots over 4 feet into the ceiling before!)
 
 ---
 
@@ -60,7 +60,7 @@ Version 4.1 with the standard fork configuation, as of 9/23/26
 <br />
 <br />
 
-**Robot Specifications:**
+**Primary Specifications:**
 
 | Spec | Value |
 |---|---|
