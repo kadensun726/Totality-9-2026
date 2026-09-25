@@ -173,7 +173,7 @@ The chassis needs to be super rigid and durable enough to take many impacts, whi
 <br />
 <br />
 
-The central frame is one piece printed out of Overture 95A TPU.
+The central frame is one piece printed out of Overture 95A TPU and weighs 32g.
 
 
 Thermoplastic Polyurethane (TPU) was chosen due to its viscoelastic characterstics, allowing for exceptional impact resistance and energy absorption. Due to its low elastic modulus, TPU excels at increasing the time of the impact, leading to greater amounts of force dissipation. 
@@ -188,15 +188,18 @@ A shore hardness of 95A was chosen to balance its ease of printing, rigidity, an
 - 1.2mm indent to allow top plate to be recessed
 - Fillet at the back to lessen the probability of a chassis breach
 - Dovetail joints to hold together the side armor while making configuration swapping easy
-- 2.25mm Circular idents to house magnets (see photo below)
+- 2.25mm Circular idents to house magnets
 
 <br/>
 
-<div align="center">
+
 
 <img width="400" height="332" alt="Screenshot 2026-09-24 223618" src="https://github.com/user-attachments/assets/191065c6-8512-47dc-beca-32395422b0a4" />
 
-</div>
+<br />
+<br />
+
+Blue sections are the cavities to recess the magnets into the frame. To minimize excessive downforce and the chance of getting high centered during a match, the magnets are mounted higher up due to the low ground clearance.
 
 <br />
 <br />
@@ -214,6 +217,19 @@ A shore hardness of 95A was chosen to balance its ease of printing, rigidity, an
     </td>
   </tr>
 </table>
+
+<br />
+<br />
+
+Also printed out of TPU, the side armor serves the purpose at protecting the wheels, possibly the most vulnerable part of the robot.
+
+
+This is the part of the robot that will most likely take the most direct impacts, so it is important to optimize the part so that it durable while still maintaining a lightweight and sleek package.
+
+
+The fork mounts are part of the side armor, but I will discuss more about them in a section dedicated to them.
+
+**Key Characterstics**
 
 
 
