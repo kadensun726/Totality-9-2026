@@ -179,7 +179,7 @@ The central frame is one piece printed out of Overture 95A TPU.
 Thermoplastic Polyurethane (TPU) was chosen due to its viscoelastic characterstics, allowing for exceptional impact resistance and energy absorption. Due to its low elastic modulus, TPU excels at increasing the time of the impact, leading to greater amounts of force dissipation. 
 
 
-A shore hardness of 95A was chosen to balance its ease of printing, rigidity, and durability (98A TPU is a great alternative, however I've seen it fail after large hits perpendicular to the layer lines).
+A shore hardness of 95A was chosen to balance its ease of printing, rigidity, and durability (98A TPU is a great alternative, however I've seen it fail following large hits perpendicular to the layer lines).
 
 **Key Characterstics**
 
