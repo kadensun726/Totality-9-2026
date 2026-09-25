@@ -224,7 +224,7 @@ Blue sections are the cavities to recess the magnets into the frame. To minimize
 Also printed out of TPU, the side armor serves the purpose at protecting the wheels, possibly the most vulnerable part of the robot.
 
 
-This is the part of the robot that will most likely take the most direct impacts, so it is important to optimize the part so that it durable while still maintaining a lightweight and sleek package.
+This is the part of the robot that will most likely take the most direct impacts, so it is important to optimize the geometry so that it is durable while still maintaining a lightweight and sleek package.
 
 
 The fork mounts are part of the side armor, but I will discuss more about them in a section dedicated to them.
