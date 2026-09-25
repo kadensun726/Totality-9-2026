@@ -175,13 +175,35 @@ The chassis needs to be super rigid and durable enough to take many impacts, whi
 <br />
 <br />
 
-The central frame is printed out of Overture 95A TPU.
+The central frame is one piece printed out of Overture 95A TPU.
 
 
 Thermoplastic Polyurethane (TPU) was chosen due to its viscoelastic characterstics, allowing for exceptional impact resistance and energy absorption. Due to its low elastic modulus, TPU excels at increasing the time of the impact, leading to greater amounts of force dissipation. 
 
 
 A shore hardness of 95A was chosen to balance its ease of printing, rigidity, and durability (98A TPU is a great alternative, however I've seen it fail after large hits perpendicular to the layer lines).
+
+**Key Characterstics**
+
+
+- Includes undersized holes to allow plastic screws to be screwed directly into the frame
+- 1.2mm indent to allow top plate to be recessed
+- Fillet at the back to lessen the probability of a chassis breach
+- Dovetail joints to hold together the side armor while making configuration swapping easy
+- 2.25mm Circular idents to house magnets (see photo below)
+
+<br/>
+
+<div align="center">
+
+<img width="400" height="332" alt="Screenshot 2026-09-24 223618" src="https://github.com/user-attachments/assets/191065c6-8512-47dc-beca-32395422b0a4" />
+
+</div>
+
+<br />
+<br />
+
+**Side Armor**
 
 
 
