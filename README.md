@@ -120,7 +120,7 @@ What can I do to design key subsystems to be modular and have different configur
 
 ### Manufacturability
 
-How can part geometries be tailored towards being manufacturable through CNC machining, FDM printing, and laser cutting?
+How can part geometries be tailored towards being manufacturable through CNC machining, FDM 3D printing, and laser cutting?
 
 ### Weight Budgeting
 
