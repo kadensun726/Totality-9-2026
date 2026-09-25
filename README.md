@@ -39,8 +39,6 @@ Modeled in Onshape and rendered in Fusion360 (see photos), this project showcase
   </tr>
 </table>
 
-
-<br />
 <br />
 
 ## Current Status
