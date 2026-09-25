@@ -86,7 +86,7 @@ Version 4.1 with the standard fork configuation, as of 9/23/26
 | Top Speed | 7.5 mph |
 | Weapon Type | Vertical bar spinner |
 | Weapon Drive Type  | Hubmotor |
-| Weapon Blade Weight | 46g/50g |
+| Weapon Blade Mass | 46g/50g |
 | Weapon Tip Speed | 212 mph |
 | Kinetic Energy Storage | 118 J |
 | Magnetic Downforce | ~300g |
