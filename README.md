@@ -159,6 +159,21 @@ The chassis needs to be super rigid and durable enough to take many impacts, whi
 
 <img width="500" height="355" alt="Screenshot 2026-09-24 155706" src="https://github.com/user-attachments/assets/b3557650-ecbf-4442-8939-c69b2b558e1f" />
 
+<br />
+<br />
+
+The central frame is printed out of Overture 95A TPU.
+
+
+Thermoplastic Polyurethane (TPU) was chosen due to its viscoelastic characterstics, allowing for exceptional impact resistance and energy absorption. Due to its low elastic modulus, TPU excels at increasing the time of the impact, leading to greater amounts of force dissipation. 
+
+
+A shore hardness of 95A was chosen to balance its ease of printing, rigidity, and durability (98A TPU is a great alternative, however I've seen it fail after large hits perpendicular to the layer lines).
+
+
+
+
+
 
 
 
