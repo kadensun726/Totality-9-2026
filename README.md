@@ -157,7 +157,20 @@ The chassis needs to be super rigid and durable enough to take many impacts, whi
 
 **Central Frame**
 
-<img width="500" height="355" alt="Screenshot 2026-09-24 155706" src="https://github.com/user-attachments/assets/b3557650-ecbf-4442-8939-c69b2b558e1f" />
+<table align="center">
+  <tr>
+    <td align="center">
+      <img src="https://github.com/user-attachments/assets/b3557650-ecbf-4442-8939-c69b2b558e1f" width="400" alt="CAD Design in Onshape"/>
+      <br />
+      <sub><b></b></sub>
+    </td>
+    <td align="center">
+      <img src="https://github.com/user-attachments/assets/e6c67174-18b4-484a-89f2-8ae6917e7a9f" width="400" alt="Fusion 360 Render"/>
+      <br />
+      <sub><b></b></sub>
+    </td>
+  </tr>
+</table>
 
 <br />
 <br />
