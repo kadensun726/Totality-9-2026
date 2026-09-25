@@ -205,6 +205,18 @@ A shore hardness of 95A was chosen to balance its ease of printing, rigidity, an
 
 **Side Armor**
 
+<br />
+
+<table align="center">
+  <tr>
+    <td align="center">
+      <img src="https://github.com/user-attachments/assets/31f94c51-8304-469c-aa4d-e656969072fa" width="400" alt="CAD Design in Onshape"/>
+      <br />
+      <sub><b></b></sub>
+    </td>
+  </tr>
+</table>
+
 
 
 
