@@ -79,6 +79,7 @@ Version 4.1 with the standard fork configuation, as of 9/23/26
 
 | Spec | Value |
 |---|---|
+| Weight | 1lb/454g |
 | Drive Configuration | 4 wheel drive |
 | Drive Motors | 1106 RR mini Mk4.1 3500kv |
 | Top Speed | 7.5 mph |
@@ -88,7 +89,7 @@ Version 4.1 with the standard fork configuation, as of 9/23/26
 | Weapon Tip Speed | 212 mph |
 | Kinetic Energy Storage | 118 J |
 | Magnetic Downforce | ~300g |
-| Battery | 4S 15.2V LiHV 380 mah |
+| Power | 4S 15.2V LiHV 380 mah |
 | Radio Protocol | FS2A |
 | Materials Used | 95A TPU, PLA+, UHMWPE, AR500, T300 cf, Ti-6Al-4V |
 | Hardware | #4 & M3 Plastites, M3 & M2 screws, 5mm Ti shaft |
@@ -188,7 +189,7 @@ A shore hardness of 95A was chosen to balance its ease of printing, rigidity, an
 - 1.2mm indent to allow top plate to be recessed
 - Fillet at the back to lessen the probability of a chassis breach
 - Dovetail joints to hold together the side armor while making configuration swapping easy
-- 2.25mm Circular idents to house magnets
+- 2.25mm circular idents to house magnets
 
 <br/>
 
