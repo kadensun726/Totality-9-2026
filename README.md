@@ -81,7 +81,7 @@ Version 4.1 with the standard fork configuation, as of 9/23/26
 |---|---|
 | Weight | 1lb/454g |
 | Drive Configuration | 4 wheel drive |
-| Drive Motors | 1106 RR mini Mk4.1 3500kv |
+| Drive Motors | 2X 1106 RR mini Mk4.1 3500kv |
 | Top Speed | 7.5 mph |
 | Weapon Type | Vertical bar spinner |
 | Weapon Drive Type  | Hubmotor |
