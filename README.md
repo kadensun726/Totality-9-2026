@@ -149,6 +149,7 @@ If you're curious and want a more in-depth look about the design choices and evo
 - Coated magnet indents with a layer of epoxy
 - installed washers on the dead axle and motor mounting screws
 - Ordered new uprights with #41 bit pilot holes
+- Extended upright feet by 1mm
 
 ### Chassis Design
 
@@ -190,7 +191,6 @@ A shore hardness of 95A was chosen to balance its ease of printing, rigidity, an
 - Fillet at the back to lessen the probability of a chassis breach
 - Dovetail joints to hold together the side armor while making configuration swapping easy
 - 2.25mm circular idents to house magnets
-- Extended upright feet by 1mm
 
 <br/>
 
