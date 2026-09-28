@@ -99,7 +99,7 @@ Version 4.1 with the standard fork configuation, as of 9/23/26
 
 ## Design Philosophy
 
-Before beginning CAD or fabrication, it is highly important to consider working towards meeting your design goals. All systems on Totality were designed with these principles in mind. Although I'm actively iterating on the robot, my goals have always been the following:
+Before beginning CAD or fabrication, it is highly important to consider working towards meeting your design goals. Combat robotics is all about optimization and doing the simple better. All systems on Totality were designed with these principles in mind. Although I'm actively iterating on the robot, my goals have always been the following:
 
 <br />
 
