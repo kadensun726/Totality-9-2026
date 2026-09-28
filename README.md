@@ -216,21 +216,49 @@ Blue sections are the cavities to recess the magnets into the frame. To minimize
       <br />
       <sub><b></b></sub>
     </td>
+    <td align="center">
+      <img src="https://github.com/user-attachments/assets/6c0f0857-aac0-45ff-a4a1-ae2086bc5613" width="420" alt="CAD Design in Onshape"/>
+      <br />
+      <sub><b></b></sub>
+    </td>
   </tr>
 </table>
 
 <br />
 <br />
 
-Also printed out of TPU, the side armor serves the purpose at protecting the wheels, possibly the most vulnerable part of the robot.
+Also printed out of TPU, the side armor serves the purpose at protecting the wheels, possibly the most vulnerable part of the robot. Each side weighs 16g.
 
 
 This is the part of the robot that will most likely take the most direct impacts, so it is important to optimize the geometry so that it is durable while still maintaining a lightweight and sleek package.
 
 
-The fork mounts are part of the side armor, but I will discuss more about them in a section dedicated to them.
+The fork mounts are technically part of the side armor, but I will discuss more about them in a section dedicated to them.
+
+<br />
 
 **Key Characterstics**
+
+One small but effective geometric feature is the 7° draft that runs through the side portion of the armor. 
+
+
+While it may seem subtle, this allows the bottom to have more material, creating a larger distance between the wheels and the exterior of the robot. In addition, this slope heavily reduces the engagement window and “shrinks” the contact surface of other robots’ spinning weapons. This allows the opponent to get a larger "bite" on the surface of the armor. (see Figure 1).
+
+<table align="center">
+  <tr>
+    <td align="center">
+      <img src="https://github.com/user-attachments/assets/0f173cf2-5c3f-409b-ab9a-3c7221d3a9ed" width="400" alt="figure 1"/>
+      <br />
+      <sub>Figure 1.
+        <br />
+        90° is 1, < 90° is 2. The blue region on part 1 represents the area between the exterior of the armor and the continued path of rotation of the opposing spinner.  <b></b></sub>
+    </td>
+  </tr>
+</table>
+
+
+
+
 
 
 
