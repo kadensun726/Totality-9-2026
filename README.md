@@ -245,7 +245,7 @@ The triangular, slope-shaped bumper on the top is extra protection for any large
 Additionally, One small but effective geometric feature is the 7° draft that runs through the side portion of the armor. 
 
 
-While it may seem subtle, this allows the bottom to have more material, creating a larger distance between the wheels and the exterior of the robot. In addition, this slope heavily reduces the engagement window and “shrinks” the contact surface of other robots’ spinning weapons. This allows the opponent to get a larger "bite" on the surface of the armor. (see Figure 1).
+While it may seem subtle, this allows the bottom to have more material, creating a larger distance between the wheels and the exterior of the robot. In addition, this slope heavily reduces the engagement window and shrinks the contact surface of other robots’ spinning weapons. This allows the opponent to get a larger "bite" on the surface of the armor. (see Figure 1).
 
 <table align="center">
   <tr>
