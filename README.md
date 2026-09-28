@@ -190,6 +190,7 @@ A shore hardness of 95A was chosen to balance its ease of printing, rigidity, an
 - Fillet at the back to lessen the probability of a chassis breach
 - Dovetail joints to hold together the side armor while making configuration swapping easy
 - 2.25mm circular idents to house magnets
+- Extended upright feet by 1mm
 
 <br/>
 
