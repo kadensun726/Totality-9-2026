@@ -238,7 +238,11 @@ The fork mounts are technically part of the side armor, but I will discuss more 
 
 **Key Characterstics**
 
-One small but effective geometric feature is the 7° draft that runs through the side portion of the armor. 
+
+The triangular, slope-shaped bumper on the top is extra protection for any large vertical spinners who have the ability to outreach mine.
+
+
+Additionally, One small but effective geometric feature is the 7° draft that runs through the side portion of the armor. 
 
 
 While it may seem subtle, this allows the bottom to have more material, creating a larger distance between the wheels and the exterior of the robot. In addition, this slope heavily reduces the engagement window and “shrinks” the contact surface of other robots’ spinning weapons. This allows the opponent to get a larger "bite" on the surface of the armor. (see Figure 1).
@@ -254,6 +258,13 @@ While it may seem subtle, this allows the bottom to have more material, creating
     </td>
   </tr>
 </table>
+
+<br />
+
+With all the various weapon types, the front end of the armor varies from piece to piece, with some of them having 4 fork mounts, 2 fork mounts, or room for a wedge attachment (there are some noticeable changes, but will be discussed later) This ensures that the robot can be very modular and have no hard counter.
+
+
+Due to the modularity and the likelihood of replacing the component, it is designed in a way where it is very easy to swap, only having to unscrew 6 screws on each side to remove both parts.
 
 
 
