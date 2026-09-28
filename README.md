@@ -164,7 +164,7 @@ The chassis needs to be super rigid and durable enough to take many impacts, whi
       <sub><b></b></sub>
     </td>
     <td align="center">
-      <img src="https://github.com/user-attachments/assets/e6c67174-18b4-484a-89f2-8ae6917e7a9f" width="400" alt="Fusion 360 Render"/>
+      <img src="https://github.com/user-attachments/assets/2faee9c1-f12d-49b3-a41c-9775ab139ff4" width="400" alt="Fusion 360 Render"/>
       <br />
       <sub><b></b></sub>
     </td>
@@ -212,12 +212,12 @@ Blue sections are the cavities to recess the magnets into the frame. To minimize
 <table align="center">
   <tr>
     <td align="center">
-      <img src="https://github.com/user-attachments/assets/31f94c51-8304-469c-aa4d-e656969072fa" width="400" alt="CAD Design in Onshape"/>
+      <img src="https://github.com/user-attachments/assets/31f94c51-8304-469c-aa4d-e656969072fa" width="420" alt="CAD Design in Onshape"/>
       <br />
       <sub><b></b></sub>
     </td>
     <td align="center">
-      <img src="https://github.com/user-attachments/assets/6c0f0857-aac0-45ff-a4a1-ae2086bc5613" width="420" alt="CAD Design in Onshape"/>
+      <img src="https://github.com/user-attachments/assets/005a5a7d-060e-40fd-92a0-5b5f99a29136" width="400" alt="CAD Design in Onshape"/>
       <br />
       <sub><b></b></sub>
     </td>
