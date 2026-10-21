@@ -153,7 +153,7 @@ If you're curious and want a more in-depth look about the design choices and evo
 
 The chassis needs to be super rigid and durable enough to take many impacts, while still being able to house all the components. The chassis consists of multiple sub-sections: the central frame, the side armor, and the top/bottom plates. Additional components will be discussed in the drive system section.
 
-**Central Frame**
+***Central Frame***
 
 <table align="center">
   <tr>
@@ -179,7 +179,7 @@ The central frame is one piece printed out of Overture 95A TPU and weighs 32g.
 Thermoplastic Polyurethane (TPU) was chosen due to its viscoelastic characterstics, allowing for exceptional impact resistance and energy absorption. Due to its low elastic modulus, TPU excels at increasing the time of the impact, leading to greater amounts of force dissipation. 
 
 
-A shore hardness of 95A was chosen to balance its ease of printing, rigidity, and durability (98A TPU is a great alternative, however I've seen it fail following large hits perpendicular to the layer lines).
+A shore hardness of 95A was chosen to balance its ease of printing, rigidity, and durability (98A TPU is an alternative, however I've seen it fail following large hits perpendicular to the layer lines).
 
 **Key Characterstics**
 
@@ -204,7 +204,7 @@ Blue sections are the cavities to recess the magnets into the frame. To minimize
 <br />
 <br />
 
-**Side Armor**
+***Side Armor***
 
 <br />
 
@@ -265,6 +265,55 @@ With all the various weapon types, the front end of the armor varies from piece 
 
 
 Due to the modularity and the likelihood of replacing the component, it is designed in a way where it is very easy to swap, only having to unscrew 6 screws on each side to remove both parts.
+
+<br />
+
+
+### Top and Bottom Plates
+
+Both plates are CNC cut from 1mm T300 carbon fiber.
+
+Since the frame is TPU, it's important to make sure the robot doesn't flex too much after impact. Carbon fiber works great in this application due to its exceptional rigidity, strength-to-weight ratio, and affordable price. T300 was chosen over other grades because it was cheaper from the supplier. One drawback is that carbon fiber isn't the best material choice for direct hits, as it tends to splinter and delaminate instead of bend or deform.
+
+The top plate is recessed into the frame for structural integrity and protection.
+
+<img width="400" height="330" alt="Screenshot 2026-09-28 221950" src="https://github.com/user-attachments/assets/7664b6ed-7f90-4de6-8bf3-3f9a8fd103f7" />
+
+
+
+<br />
+
+
+
+
+**Other specifications:**
+
+- Bottom plate has cut outs for magnets
+- Both plates feature side "wings" to connect the side armor pieces
+- 4mm hole to access the power switch
+- Vents on the top plate for additional cooling and airflow
+
+<br />
+
+
+
+### Drive System
+
+<br />
+
+<img width="400" height="370" alt="Screenshot 2026-10-20 201426" src="https://github.com/user-attachments/assets/64d1f3ee-e33a-44a2-842e-5a9bf043ccd2" />
+
+<br />
+
+
+<br />
+
+
+Probably the most critical subsystem on the robot, since you have no way of winning a match if your drive fails. To keep the whole system rigid, carbon fiber plates are used on both sides of the drive system, resulting in sufficient belt tension and strength. 180mm 60T FingerTech S3M belts are used to sufficiently transfer torque from the front wheels (driving) to the rear wheels (driven).
+
+5mm flanged axles are used as a deadshaft for the driven wheels. In order to save weight, I have chosen not to use components typically used to reduce radial friction (bearings or bushings), as I've noticed there is already minimal friction between the axle and the hub.
+
+---
 
 
 
