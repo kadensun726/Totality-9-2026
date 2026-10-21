@@ -81,7 +81,7 @@ Version 4.1 with the standard fork configuation, as of 9/23/26
 |---|---|
 | Weight | 1lb/454g |
 | Drive Configuration | 4 wheel drive |
-| Drive Motors | 2X 1106 RR mini Mk4.1 3500kv |
+| Drive Motors | 2X 1106 3500kv RR mini Mk4.1 |
 | Top Speed | 7.5 mph |
 | Weapon Type | Vertical bar spinner |
 | Weapon Drive Type  | Hubmotor |
@@ -91,7 +91,7 @@ Version 4.1 with the standard fork configuation, as of 9/23/26
 | Magnetic Downforce | ~300g |
 | Power | 4S 15.2V LiHV 380 mah |
 | Radio Receiver | FS2A |
-| Materials Used | 95A TPU, PLA+, UHMWPE, AR500, T300 cf, Ti-6Al-4V |
+| Materials Used | 95A TPU, PLA+, UHMWPE, AR500, T300 CF, Ti-6Al-4V |
 | Hardware | #4 & M3 Plastites, M3 & M2 screws, 5mm Ti shaft |
 | Dimensions | 115mm x 175mm x 82mm |
 
